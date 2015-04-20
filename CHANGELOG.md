@@ -18,3 +18,4 @@
 * **2.0.0**     Tighten up use of modifier (`--`) syntax.
 * **2.1.0**     Make distinction between right-aligning and reversing grids, provide a way to do both.
 * **2.2.0**     Drop `@extend`, add default flags, add gutter and vertical alignment modifiers
+* **2.2.1**     Add `@charset "UTF-8";` to enable US-ASCII characters.
